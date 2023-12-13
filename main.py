@@ -1,8 +1,8 @@
-from Analizar_pixeles import analizar_pixeles
-from Cobertura_nubos import cci
-from CloudCoverage import determinar_nube
-from Imagen_byn import img_bn 
-from Verifica_imagen import verificar_img
+from analizar_pixeles import analizar_pixeles
+from cobertura_nubosa import cci
+from determinar_nubes import determinar_nube
+from generador_byn import img_bn 
+from verificar_imagen import verificar_img
 
 def main():
     try:
